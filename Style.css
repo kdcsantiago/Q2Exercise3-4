@@ -1,0 +1,53 @@
+		#div1{
+			border-style: dotted;
+			border-color: #FFC765;
+			margin: 15%;
+			padding: 12px;
+		}
+		#product{
+			font-family: 'Patrick Hand', cursive;;
+			font-size: 20pt;
+			text-align: left;
+			margin-left: 20px;
+			margin-right: 20px;
+			padding: 25px;
+		}
+		#price{
+			margin-top: 25px;
+			margin-bottom: 25px;
+			font-family: 'Bayon', sans-serif;
+		}
+		body{
+			background-image: url(white.JPG);
+			background-color: #B6B6B6;
+			background-size: cover;
+		}
+		img{
+			height: 25%;
+			width: 25%;
+			margin-left: 480px;
+			margin-right: 100px;
+			border: 2px solid #ddd;
+			border-radius: 4px;
+			padding: 5px;
+		}
+		h4{
+			font-family: 'Bayon', sans-serif;
+			font-size: 70pt;
+			text-align: center;
+			margin-top: 25px;
+			margin-bottom: 25px;
+		}
+		button{
+			border: none;
+			border-radius: 6px;
+			outline: 0;
+			display: inline-block;
+			padding: 20px;
+			color: white;
+			background-color: #FFC765;
+			text-align: center;
+			cursor: pointer;
+			width: 30%;
+			font-size: 18px;
+		}
